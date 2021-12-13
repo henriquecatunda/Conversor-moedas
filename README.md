@@ -36,6 +36,13 @@ O sistema permite realizar conversões de moedas. Desta forma, o sistema apresen
  # O app vai estará rodando na porta 3000 - acesse <http://localhost:3000>
  ```
  
+  ## Rodando testes unitários
+ ```bash
+ # Execute testes
+ $ yarn test
+ 
+ ```
+ 
  
 ## Autor
 ---
